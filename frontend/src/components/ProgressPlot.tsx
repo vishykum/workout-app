@@ -1,5 +1,5 @@
 import React from "react";
-import { Exercise, ExerciseInfo } from "./types";
+import { Exercise } from "./types";
 import "bootstrap/dist/css/bootstrap.min.css";
 import {LineChart, Line, ResponsiveContainer, Tooltip, XAxis, YAxis, CartesianGrid} from "recharts"
 
